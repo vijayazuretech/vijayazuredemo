@@ -1,0 +1,9 @@
+{
+	"name": "archadfdev",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b112d781-0499-4394-a9c1-cf62ff0b9470",
+		"tenantId": "acc8af1c-d4c5-43f6-b89d-86c554637001"
+	}
+}
