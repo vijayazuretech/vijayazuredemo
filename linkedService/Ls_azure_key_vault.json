@@ -1,0 +1,11 @@
+{
+	"name": "Ls_azure_key_vault",
+	"properties": {
+		"description": "Linked Azure key vault",
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://kv-archvijay.vault.azure.net/"
+		}
+	}
+}
